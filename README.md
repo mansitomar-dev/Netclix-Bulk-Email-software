@@ -144,21 +144,6 @@ WEBHOOK_SECRET=your_webhook_secret
 GA_TRACKING_ID=your_ga_id
 ```
 
-NEVER commit your .env file to GitHub. It is already listed in .gitignore.
-
----
-
-## Contact
-
-- Website  : https://www.netclixcloud.com
-- Email    : info@netclixcloud.com
-- Phone 1  : +91 7065580729  (Mon-Sat, 10am-6pm IST)
-- Phone 2  : +91 8922870543  (Mon-Sat, 10am-6pm IST)
-- Instagram: https://www.instagram.com/netclixcloud/
-- Facebook : https://www.facebook.com/people/Netclix/61588481018467/
-
----
-
 ## License
 
 This project and its website content are the intellectual property of NETCLIX Cloud Pvt. Ltd.
